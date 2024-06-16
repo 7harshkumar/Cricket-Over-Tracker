@@ -1,7 +1,4 @@
 # Cricket Over Tracker
-HTML CSS JS
-# Cricket-Scoreboard-Over-
-<strong>Cricket Over Tracker</strong>
 
 This Cricket Over Tracker is a web application designed to visually track the progress of an over in a cricket match. It displays the balls bowled, allows users to update the score, and shows the cumulative score.
 <br>
